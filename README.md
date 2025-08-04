@@ -187,5 +187,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Research institutions for learning science insights
 
 ---
+Deployment Link:https://nervesparks-sowmya1811ds-projects.vercel.app/
 
 **Built with ❤️ for personalized education** 
